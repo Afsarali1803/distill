@@ -27,7 +27,7 @@ All processing happens locally. No data leaves your machine when using Ollama or
 
 Just a testing 
 
----
+-----
 
 ## Architecture
 
